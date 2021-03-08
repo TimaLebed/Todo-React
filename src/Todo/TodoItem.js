@@ -4,22 +4,10 @@ import Context from "../context";
 
 const styles = {
   li: {
-    // display: "flex",
-    // justifyContent: "space-between",
-    // alignItems: "center",
-    // padding: ".5rem 1rem",
-    // border: "1px solid #ccc",
-    // borderRadius: "4px",
-    // marginBottom: ".5rem",
     display: "flex",
     justifyContent: "space-between",
     alignItems: "center",
-    /* padding: 0.5rem 1rem; */
-    // border: '1px solid rgb(204, 204, 204)',
-    /* border-radius: 4px; */
-    /* margin-bottom: 0.5rem; */
     padding: "7px 16px 7px 16px",
-    /* border: none; */
     background: "rgba(0, 0, 0, 0.023)",
     boxShadow: "inset 0 -2px 1px rgb(0 0 0 / 3%)",
     outline: "none",

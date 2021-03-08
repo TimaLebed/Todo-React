@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 const styles = {
   ul: {
     listStyle: 'none',
-    width: '322px'
+    width: '327px'
   }
 }
 
